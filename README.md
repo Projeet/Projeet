@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Projeet Ghosh</h1>
-<h3 align="left">A passionate Data Scientist</h3>
+<h3 align="left">A passionate Data Scientist from India</h3>
 <img align="left" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projeet&label=Profile%20views&color=0e75b6&style=flat" alt="projeet" /> </p>
